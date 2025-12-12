@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5077537644217782325
+  m_GuidHigh: 4433115170117991319
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5375227444870654430
+      m_GuidHigh: 1763439473886986936
+    m_SerializedTextureGuid:
+      m_GuidLow: 1789334819305289381
+      m_GuidHigh: 17569667348431483192
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Artist
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4946663970291930025
+      m_GuidHigh: 10122755700220310921
+    m_SerializedTextureGuid:
+      m_GuidLow: 17745426079880065224
+      m_GuidHigh: 466262205529338938
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Bodyguard
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5632840282506223406
+      m_GuidHigh: 2747684867385071767
+    m_SerializedTextureGuid:
+      m_GuidLow: 12989721487460878103
+      m_GuidHigh: 4765259910273168456
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Cartoon
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4865986783516098253
+      m_GuidHigh: 15703153844339750030
+    m_SerializedTextureGuid:
+      m_GuidLow: 6531523086567703622
+      m_GuidHigh: 8611045632322209433
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Chef
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4871943679284268922
+      m_GuidHigh: 16681117686415099063
+    m_SerializedTextureGuid:
+      m_GuidLow: 5689305616250836382
+      m_GuidHigh: 1076566968984250058
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Chemist
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5585178830168014818
+      m_GuidHigh: 1129209537517309367
+    m_SerializedTextureGuid:
+      m_GuidLow: 9490434094517952943
+      m_GuidHigh: 9688155661498602443
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Doctor
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4939293103167607582
+      m_GuidHigh: 14535286133058019742
+    m_SerializedTextureGuid:
+      m_GuidLow: 9557950555162457929
+      m_GuidHigh: 13783796890956562520
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Interpreter
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4846611586495656002
+      m_GuidHigh: 13382598888447217556
+    m_SerializedTextureGuid:
+      m_GuidLow: 2473663001094047148
+      m_GuidHigh: 6906293001748868123
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Judge
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4776455683430805873
+      m_GuidHigh: 14390365941295961778
+    m_SerializedTextureGuid:
+      m_GuidLow: 343510523804926311
+      m_GuidHigh: 10984555614541233466
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Nurse
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4965868648959066258
+      m_GuidHigh: 7693760944921050007
+    m_SerializedTextureGuid:
+      m_GuidLow: 9940575386983731150
+      m_GuidHigh: 7515534002071816616
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Police
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4985541412972726622
+      m_GuidHigh: 5435688306807810202
+    m_SerializedTextureGuid:
+      m_GuidLow: 18416565682864971319
+      m_GuidHigh: 7346387652674010490
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Sportsman
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5569688377847329214
+      m_GuidHigh: 5971533146635516062
+    m_SerializedTextureGuid:
+      m_GuidLow: 14147006210813312712
+      m_GuidHigh: 17791286871213192632
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Teacher
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4728520393956473814
+      m_GuidHigh: 9155626069878365612
+    m_SerializedTextureGuid:
+      m_GuidLow: 7400784539130875177
+      m_GuidHigh: 3437889629390205466
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Tourist
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5441080621969114802
+      m_GuidHigh: 1375638224983011471
+    m_SerializedTextureGuid:
+      m_GuidLow: 14682948137892012035
+      m_GuidHigh: 18295621645720834360
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Veterinarian
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5473823585176936349
+      m_GuidHigh: 8526987210431010982
+    m_SerializedTextureGuid:
+      m_GuidLow: 8134641716207396983
+      m_GuidHigh: 12193628878613111433
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Voiceactor
+    m_Texture: {fileID: 0}
