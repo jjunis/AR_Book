@@ -76,9 +76,26 @@ public class ImageTracker : MonoBehaviour
         {
             // 위치 업데이트
             spawned[name].transform.position = img.transform.position;
-            spawned[name].transform.rotation = img.transform.rotation;
+            spawned[name].transform.rotation = img.transform.rotation * Quaternion.Euler(0, -90, 0);
         }
 
-        spawned[name].SetActive(true);
+        GameObject spawnedObj = spawned[name];
+
+        if (img.trackingState == TrackingState.Tracking)
+        {
+            spawnedObj.SetActive(true);
+
+            // 오디오가 재생 중이 아니면 재생
+            AudioSource audio = spawnedObj.GetComponent<AudioSource>();
+            if (audio != null && !audio.isPlaying)
+            {
+                audio.Play();
+            }
+        }
+        else
+        {
+            // 이미지 안 보임 → 모델 + 오디오 숨김
+            spawnedObj.SetActive(false);
+        }
     }
 }

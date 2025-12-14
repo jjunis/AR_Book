@@ -23,7 +23,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 1789334819305289381
       m_GuidHigh: 17569667348431483192
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Artist
     m_Texture: {fileID: 0}
@@ -33,7 +33,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 17745426079880065224
       m_GuidHigh: 466262205529338938
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Bodyguard
     m_Texture: {fileID: 0}
@@ -43,7 +43,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 12989721487460878103
       m_GuidHigh: 4765259910273168456
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Cartoon
     m_Texture: {fileID: 0}
@@ -53,7 +53,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 6531523086567703622
       m_GuidHigh: 8611045632322209433
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Chef
     m_Texture: {fileID: 0}
@@ -63,7 +63,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 5689305616250836382
       m_GuidHigh: 1076566968984250058
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Chemist
     m_Texture: {fileID: 0}
@@ -73,7 +73,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 9490434094517952943
       m_GuidHigh: 9688155661498602443
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Doctor
     m_Texture: {fileID: 0}
@@ -83,7 +83,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 9557950555162457929
       m_GuidHigh: 13783796890956562520
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Interpreter
     m_Texture: {fileID: 0}
@@ -93,7 +93,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 2473663001094047148
       m_GuidHigh: 6906293001748868123
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Judge
     m_Texture: {fileID: 0}
@@ -103,7 +103,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 343510523804926311
       m_GuidHigh: 10984555614541233466
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Nurse
     m_Texture: {fileID: 0}
@@ -113,7 +113,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 9940575386983731150
       m_GuidHigh: 7515534002071816616
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Police
     m_Texture: {fileID: 0}
@@ -123,7 +123,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 18416565682864971319
       m_GuidHigh: 7346387652674010490
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Sportsman
     m_Texture: {fileID: 0}
@@ -133,7 +133,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 14147006210813312712
       m_GuidHigh: 17791286871213192632
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Teacher
     m_Texture: {fileID: 0}
@@ -143,7 +143,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 7400784539130875177
       m_GuidHigh: 3437889629390205466
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Tourist
     m_Texture: {fileID: 0}
@@ -153,7 +153,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 14682948137892012035
       m_GuidHigh: 18295621645720834360
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Veterinarian
     m_Texture: {fileID: 0}
@@ -163,7 +163,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 8134641716207396983
       m_GuidHigh: 12193628878613111433
-    m_Size: {x: 0.3, y: 0.3}
+    m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: Voiceactor
     m_Texture: {fileID: 0}

@@ -305,7 +305,7 @@ MonoBehaviour:
   - imageName: Veterinarian
     prefab: {fileID: 2233433867539256269, guid: db488803dd3cd984cb5ae77acb734a20, type: 3}
     audioClip: {fileID: 8300000, guid: 9389a91c58bf1bb4da81907fc6ffcd9f, type: 3}
-  - imageName: VoiceactorModel
+  - imageName: Voiceactor
     prefab: {fileID: 979453182750446760, guid: da5c12beadc61754a93978abe6ededdf, type: 3}
     audioClip: {fileID: 8300000, guid: 83d94f49eb65a324db2eab03abe65c59, type: 3}
 --- !u!1 &705507993
