@@ -8,6 +8,8 @@ public class ImageTracker : MonoBehaviour
 {
     public ARTrackedImageManager trackedImageManager;
 
+    private HashSet<string> playedAudio = new HashSet<string>();
+
     [System.Serializable]
     public class ImagePrefabAudio
     {
@@ -85,16 +87,19 @@ public class ImageTracker : MonoBehaviour
         {
             spawnedObj.SetActive(true);
 
-            // 오디오가 재생 중이 아니면 재생
-            AudioSource audio = spawnedObj.GetComponent<AudioSource>();
-            if (audio != null && !audio.isPlaying)
+            AudioSource audioSource = spawnedObj.GetComponent<AudioSource>();
+            if (audioSource != null && !playedAudio.Contains(name))
             {
-                audio.Play();
+                audioSource.Play();
+                playedAudio.Add(name);
             }
         }
         else
         {
-            // 이미지 안 보임 → 모델 + 오디오 숨김
+            AudioSource audioSource = spawnedObj.GetComponent<AudioSource>();
+            if (audioSource != null)
+                audioSource.Stop();
+
             spawnedObj.SetActive(false);
         }
     }

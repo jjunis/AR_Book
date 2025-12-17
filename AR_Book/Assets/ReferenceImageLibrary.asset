@@ -169,3 +169,153 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: Voiceactor
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5272781383479149888
+      m_GuidHigh: 2766303606756045956
+    m_SerializedTextureGuid:
+      m_GuidLow: 12273509816551630656
+      m_GuidHigh: 13628021725369439112
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: ArtistAct
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5454653160515165888
+      m_GuidHigh: 13125579809189112765
+    m_SerializedTextureGuid:
+      m_GuidLow: 11233267479585212625
+      m_GuidHigh: 17769369118894475482
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: BodyguardAct
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4741224963424857266
+      m_GuidHigh: 7819962268968672172
+    m_SerializedTextureGuid:
+      m_GuidLow: 9508257354889864362
+      m_GuidHigh: 4467237010203113656
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: CartoonAct
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4813721876812802634
+      m_GuidHigh: 432438941306428048
+    m_SerializedTextureGuid:
+      m_GuidLow: 10787270241880202805
+      m_GuidHigh: 17499049639925762666
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: ChefAct
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5606750035753802153
+      m_GuidHigh: 10904990486008097703
+    m_SerializedTextureGuid:
+      m_GuidLow: 12525843094500563449
+      m_GuidHigh: 6099772814415258
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: ChemistAct
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5347191940808760452
+      m_GuidHigh: 1915310678054595721
+    m_SerializedTextureGuid:
+      m_GuidLow: 13363572277202178354
+      m_GuidHigh: 17931637980410450856
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: DoctorAct
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5189280606640513269
+      m_GuidHigh: 2487921550367121820
+    m_SerializedTextureGuid:
+      m_GuidLow: 5144507207407363058
+      m_GuidHigh: 16125115463394603339
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: InterpreterAct
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5218033637180910909
+      m_GuidHigh: 6941162756935272867
+    m_SerializedTextureGuid:
+      m_GuidLow: 4851683758246258298
+      m_GuidHigh: 3603452149700077243
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: JudgeAct
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5146661063589487396
+      m_GuidHigh: 15904821378959936426
+    m_SerializedTextureGuid:
+      m_GuidLow: 3631149393223620440
+      m_GuidHigh: 13869620420286673225
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: NurseAct
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5342513337246566276
+      m_GuidHigh: 13766468069024359593
+    m_SerializedTextureGuid:
+      m_GuidLow: 16723064873201081736
+      m_GuidHigh: 11942980274340064299
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: PoliceAct
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5752933813286857091
+      m_GuidHigh: 4279157653032876175
+    m_SerializedTextureGuid:
+      m_GuidLow: 8422884491438453978
+      m_GuidHigh: 7986382655393175435
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: SportsmanAct
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5389452018900421864
+      m_GuidHigh: 10613609185314016446
+    m_SerializedTextureGuid:
+      m_GuidLow: 14867655493595996358
+      m_GuidHigh: 15131707975321307865
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: TeacherAct
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4670937366293060473
+      m_GuidHigh: 786537068425969589
+    m_SerializedTextureGuid:
+      m_GuidLow: 5347011834552982695
+      m_GuidHigh: 6375968168726509834
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: TouristAct
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5419534583620857865
+      m_GuidHigh: 1759402490360680584
+    m_SerializedTextureGuid:
+      m_GuidLow: 2018814327080742547
+      m_GuidHigh: 3705712204203656138
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: VeterinarianAct
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4613174478480293222
+      m_GuidHigh: 11592088795498256549
+    m_SerializedTextureGuid:
+      m_GuidLow: 3149236314150872805
+      m_GuidHigh: 8355824433931513464
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: VoiceactorAct
+    m_Texture: {fileID: 0}

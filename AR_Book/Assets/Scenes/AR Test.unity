@@ -308,6 +308,51 @@ MonoBehaviour:
   - imageName: Voiceactor
     prefab: {fileID: 979453182750446760, guid: da5c12beadc61754a93978abe6ededdf, type: 3}
     audioClip: {fileID: 8300000, guid: 83d94f49eb65a324db2eab03abe65c59, type: 3}
+  - imageName: ArtistAct
+    prefab: {fileID: -53161676923438305, guid: e147b8046935c4447b00713d3ca69372, type: 3}
+    audioClip: {fileID: 8300000, guid: 17933bb512e750645b5710abed249dbd, type: 3}
+  - imageName: BodyguardAct
+    prefab: {fileID: -53161676923438305, guid: 92118d2098643a945a60c3b112de1f96, type: 3}
+    audioClip: {fileID: 8300000, guid: ba3bc4361a5759a429940830a8249ac5, type: 3}
+  - imageName: CartoonAct
+    prefab: {fileID: -53161676923438305, guid: 96c223929b2ce534f8bf32ab341ed8d0, type: 3}
+    audioClip: {fileID: 8300000, guid: d7d9046df3d6a234fb1691d7789bd44d, type: 3}
+  - imageName: ChefAct
+    prefab: {fileID: -53161676923438305, guid: 1899e62dabd53e1409aa02c3d1971f52, type: 3}
+    audioClip: {fileID: 8300000, guid: 474060521487549409d913b71fc9d0d1, type: 3}
+  - imageName: ChemistAct
+    prefab: {fileID: -53161676923438305, guid: d8a43c4bf0874d640a6aab923823eb9d, type: 3}
+    audioClip: {fileID: 8300000, guid: de4bdb82a8fc175409eec8dbee8d2238, type: 3}
+  - imageName: DoctorAct
+    prefab: {fileID: -53161676923438305, guid: 72dc020ec53e41248b99d7ed64ee1b0f, type: 3}
+    audioClip: {fileID: 8300000, guid: 787a89b46c9eab5419791619ed61506e, type: 3}
+  - imageName: InterpreterAct
+    prefab: {fileID: -53161676923438305, guid: 72330c899251e494bad52111ec777fc3, type: 3}
+    audioClip: {fileID: 8300000, guid: 8385c5c8f7a1e994b95fb726ec7bba45, type: 3}
+  - imageName: JudgeAct
+    prefab: {fileID: -53161676923438305, guid: ec171bd274fd9744796efd8bdc1679db, type: 3}
+    audioClip: {fileID: 8300000, guid: 591e38c6e0cf46645a0f9d1927190309, type: 3}
+  - imageName: NurseAct
+    prefab: {fileID: -53161676923438305, guid: 39daa39389ed20f49baa343c39ed3132, type: 3}
+    audioClip: {fileID: 8300000, guid: 60dfed3feba02784c83589f9d3802b3f, type: 3}
+  - imageName: PoliceAct
+    prefab: {fileID: -53161676923438305, guid: e47e2a70cd957994ab2a83e983f424ca, type: 3}
+    audioClip: {fileID: 8300000, guid: eabacc551a2383840b813a786e286416, type: 3}
+  - imageName: SportsmanAct
+    prefab: {fileID: -53161676923438305, guid: ac11ac07bbef619489166964d3d2c97f, type: 3}
+    audioClip: {fileID: 8300000, guid: 28699f448cb0c4e4485b6e97607673fd, type: 3}
+  - imageName: TeacherAct
+    prefab: {fileID: -53161676923438305, guid: 330b561e8a7b5624d9e78050d142d741, type: 3}
+    audioClip: {fileID: 8300000, guid: ef7b17acc39ebc94280ffa76efbd0c81, type: 3}
+  - imageName: TouristAct
+    prefab: {fileID: -53161676923438305, guid: 3b5df5584e8d0b7488e49d71e3117717, type: 3}
+    audioClip: {fileID: 8300000, guid: 3a0cb412a272ce241a081fe4930c7cbd, type: 3}
+  - imageName: VeterinarianAct
+    prefab: {fileID: -53161676923438305, guid: 7b6f08a76ddf45f44a8d2a9f50fc8fe8, type: 3}
+    audioClip: {fileID: 8300000, guid: 0622883e521fc8645bfc4f64327270bd, type: 3}
+  - imageName: VoiceactorAct
+    prefab: {fileID: -53161676923438305, guid: da4464c9fb1ac7c468ff326a549b7156, type: 3}
+    audioClip: {fileID: 8300000, guid: 83d94f49eb65a324db2eab03abe65c59, type: 3}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
