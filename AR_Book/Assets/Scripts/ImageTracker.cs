@@ -1,4 +1,4 @@
-// ImageTracker.cs
+ï»¿// ImageTracker.cs
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
@@ -13,9 +13,9 @@ public class ImageTracker : MonoBehaviour
     [System.Serializable]
     public class ImagePrefabAudio
     {
-        public string imageName;      // ÀÌ¹ÌÁö ÀÌ¸§
-        public GameObject prefab;     // »ı¼ºÇÒ ¸ğµ¨ ÇÁ¸®ÆÕ
-        public AudioClip audioClip;   // Àç»ıÇÒ ¿Àµğ¿À
+        public string imageName;      // ì´ë¯¸ì§€ ì´ë¦„
+        public GameObject prefab;     // ìƒì„±í•  ëª¨ë¸ í”„ë¦¬íŒ¹
+        public AudioClip audioClip;   // ì¬ìƒí•  ì˜¤ë””ì˜¤
     }
 
     public List<ImagePrefabAudio> imageData;
@@ -51,23 +51,23 @@ public class ImageTracker : MonoBehaviour
     {
         string name = img.referenceImage.name;
 
-        // Ã³À½ ÀÎ½ÄµÆÀ» ¶§
+        // ì²˜ìŒ ì¸ì‹ëì„ ë•Œ
         if (!spawned.ContainsKey(name))
         {
             foreach (var data in imageData)
             {
                 if (data.imageName == name)
                 {
-                    // ¸ğµ¨ »ı¼º
+                    // ëª¨ë¸ ìƒì„±
                     GameObject obj = Instantiate(data.prefab, img.transform.position, img.transform.rotation);
 
-                    // ¿Àµğ¿À ¼Ò½º Ãß°¡
+                    // ì˜¤ë””ì˜¤ ì†ŒìŠ¤ ì¶”ê°€
                     AudioSource audio = obj.AddComponent<AudioSource>();
                     audio.clip = data.audioClip;
-                    audio.playOnAwake = true;    // »ı¼ºµÇÀÚ¸¶ÀÚ ÀÚµ¿ Àç»ı
-                    audio.spatialBlend = 1f;      // 3D ¿Àµğ¿À
+                    audio.playOnAwake = true;    // ìƒì„±ë˜ìë§ˆì ìë™ ì¬ìƒ
+                    audio.spatialBlend = 1f;      // 3D ì˜¤ë””ì˜¤
 
-                    audio.Play(); // ¿Àµğ¿À Àç»ı
+                    audio.Play(); // ì˜¤ë””ì˜¤ ì¬ìƒ
 
                     spawned.Add(name, obj);
                     break;
@@ -76,9 +76,10 @@ public class ImageTracker : MonoBehaviour
         }
         else
         {
-            // À§Ä¡ ¾÷µ¥ÀÌÆ®
+            // ìœ„ì¹˜ ì—…ë°ì´íŠ¸
             spawned[name].transform.position = img.transform.position;
             spawned[name].transform.rotation = img.transform.rotation * Quaternion.Euler(0, -90, 0);
+            spawned[name].transform.localScale = Vector3.one * 0.25f; // â­ ì¶”ê°€
         }
 
         GameObject spawnedObj = spawned[name];

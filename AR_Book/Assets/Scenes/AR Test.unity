@@ -352,7 +352,7 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 0622883e521fc8645bfc4f64327270bd, type: 3}
   - imageName: VoiceactorAct
     prefab: {fileID: -53161676923438305, guid: da4464c9fb1ac7c468ff326a549b7156, type: 3}
-    audioClip: {fileID: 8300000, guid: 83d94f49eb65a324db2eab03abe65c59, type: 3}
+    audioClip: {fileID: 8300000, guid: 895a82d86ac095b479835e2fcd2ed91a, type: 3}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
